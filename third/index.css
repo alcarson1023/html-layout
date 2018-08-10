@@ -1,0 +1,45 @@
+#white{
+width: 100%;
+height: 250px;
+background-color: whitesmoke;
+}
+
+.top{  
+    width: 100%;
+    height: 100px;
+    background-color: lightgrey;
+}
+#box{
+ position: absolute;
+ background-color: skyblue;
+ height: 75px;
+ width: 75px;
+ margin: 12.5px;
+}
+#blue{
+    width: 100%;
+    height: 150px;
+    background-color: skyblue;
+}
+#teal{
+    width: 100%;
+    height: 150px;
+    background-color: aquamarine;
+}
+#green{
+    width: 100%;
+    height: 150px;
+    background-color: greenyellow;
+}
+#yellow{
+    width: 100%;
+    height: 150px;
+    background-color: yellow;
+}
+
+#p{
+    margin: 0px;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray
+}

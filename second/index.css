@@ -1,0 +1,58 @@
+.top{
+    position: relative;
+    margin:2.5%;
+    border:3px solid black;
+    height: 200px;
+    width:95%;
+} 
+
+#purple{
+margin: 10px;
+position: absolute;
+bottom: 0px;
+float:left;
+width: 40px;
+height:125px;
+background-color: purple;
+}
+#green{
+    background-color: green;
+    width: 20%;
+    height:180px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+#blue{
+    background-color: lightblue;
+    height: 180px;
+    width: 180px;
+    border-radius: 100px;
+    margin-left:100px;
+}
+
+.middle{
+    margin:2.5%;
+    border:3px dotted black;
+    height: 300px;
+    width:95%;
+}
+
+#box2{
+    float: center;
+    margin-left: 5% ;
+    margin-top: 50px;
+    height:200px;
+    width: 90%;
+    background-color: lightgoldenrodyellow;
+    box-shadow: 5px 10px 10px #000000c8;
+}
+
+.bottom{
+    border: 1px solid #b9b9b9;
+    padding: 10px;
+    box-shadow: 3px 6px 6px #b9b9b9;
+    height: 200px;
+    width: 50%;
+    margin-left: 25%;
+}
